@@ -1,0 +1,10 @@
+# Arduino-Build-Artefakte
+build/
+*.bin
+*.elf
+*.map
+
+# Host-Pruefstand
+/tmp/
+__pycache__/
+*.pyc
